@@ -1,6 +1,6 @@
 # :sparkles: Neuromatch Computational Neuroscience Course Project:sparkles:
 
-This is the code that I and my colleagues ([Yagmur](https://github.com/zyagmuraydemir),[Oyku](https://github.com/oyku98), & [Zeynep](https://github.com/zeynekilincer))used for our project during Neuromatch Academy Computational Neuroscience course 2022. We employed [DEAP dataset](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/) and decoded the subject ratings of valence from EEG data using convolutional neural network (CNN).
+This is the code that I and my colleagues ([Yagmur](https://github.com/zyagmuraydemir), [Oyku](https://github.com/oyku98), & [Zeynep](https://github.com/zeynekilincer))used for our project during Neuromatch Academy Computational Neuroscience course 2022. We employed [DEAP dataset](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/) and decoded the subject ratings of valence from EEG data using convolutional neural network (CNN).
 
 
 
